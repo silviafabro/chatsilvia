@@ -1,4 +1,4 @@
-# Chat Multiusuário com Histórico (Java + Sockets + JDBC)
+# Chat Multiusuário com Histórico 
 
 ## Requisitos
 - Java 17+ e Maven 3.8+
